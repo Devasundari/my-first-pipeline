@@ -28,4 +28,4 @@ jobs:
         run: pytest test_hello.py -v
       
       - name: Run the app
-        run: python wrong.py
+        run: python hello.py
